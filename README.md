@@ -9,62 +9,62 @@
   - [$HTML， HTTP，web 综合问题](#$html，-http，web综合问题)
     - [常见排序算法的时间复杂度,空间复杂度](#常见排序算法的时间复杂度空间复杂度)
     - [前端需要注意哪些 SEO](#前端需要注意哪些seo)
-    - [web 开发中会话跟踪的方法有哪些](#web开发中会话跟踪的方法有哪些)
+    - [web 开发中会话跟踪的方法有哪些](#web开发中会话跟踪的方法有哪些)！！！！！
     - [`<img>`的`title`和`alt`有什么区别](#img的title和alt有什么区别)
     - [doctype 是什么,举例常见 doctype 及特点](#doctype是什么举例常见doctype及特点)
     - [HTML 全局属性(global attribute)有哪些](#html全局属性global-attribute有哪些)
-    - [什么是 web 语义化,有什么好处](#什么是web语义化有什么好处)
-    - [HTTP method](#http-method)
-    - [从浏览器地址栏输入 url 到显示页面的步骤(以 HTTP 为例)](#从浏览器地址栏输入url到显示页面的步骤以http为例)
+    - [什么是 web 语义化,有什么好处](#什么是web语义化有什么好处)！！！！！
+    - [HTTP method](#http-method)！！！！！
+    - [从浏览器地址栏输入 url 到显示页面的步骤(以 HTTP 为例)](#从浏览器地址栏输入url到显示页面的步骤以http为例)！！！！！
     - [HTTP request 报文结构是怎样的](#http-request报文结构是怎样的)
     - [HTTP response 报文结构是怎样的](#http-response报文结构是怎样的)
     - [如何进行网站性能优化](#如何进行网站性能优化)
     - [什么是渐进增强](#什么是渐进增强)
-    - [HTTP 状态码及其含义](#http状态码及其含义)
+    - [HTTP 状态码及其含义](#http状态码及其含义)！！！！！
   - [$CSS 部分](#$css部分)
-    - [CSS 选择器有哪些](#css选择器有哪些)
+    - [CSS 选择器有哪些](#css选择器有哪些)！！！！！
     - [css sprite 是什么,有什么优缺点](#css-sprite是什么有什么优缺点)
-    - [`display: none;`与`visibility: hidden;`的区别](#display-none与visibility-hidden的区别)
+    - [`display: none;`与`visibility: hidden;`的区别](#display-none与visibility-hidden的区别)！！！！！
     - [css hack 原理及常用 hack](#css-hack原理及常用hack)
     - [specified value,computed value,used value 计算方法](#specified-valuecomputed-valueused-value计算方法)
-    - [`link`与`@import`的区别](#link与@import的区别)
-    - [`display: block;`和`display: inline;`的区别](#display-block和display-inline的区别)
+    - [`link`与`@import`的区别](#link与@import的区别)！！！！！
+    - [`display: block;`和`display: inline;`的区别](#display-block和display-inline的区别)！！！！！
     - [PNG,GIF,JPG 的区别及如何选](#pnggifjpg的区别及如何选)
     - [CSS 有哪些继承属性](#css有哪些继承属性)
     - [IE6 浏览器有哪些常见的 bug,缺陷或者与标准不一致的地方,如何解决](#ie6浏览器有哪些常见的bug缺陷或者与标准不一致的地方如何解决)
-    - [容器包含若干浮动元素时如何清理(包含)浮动](#容器包含若干浮动元素时如何清理包含浮动)
+    - [容器包含若干浮动元素时如何清理(包含)浮动](#容器包含若干浮动元素时如何清理包含浮动)！！！！！
     - [什么是 FOUC?如何避免](#什么是fouc如何避免)
-    - [如何创建块级格式化上下文(block formatting context),BFC 有什么用](#如何创建块级格式化上下文block-formatting-contextbfc有什么用)
+    - [如何创建块级格式化上下文(block formatting context),BFC 有什么用](#如何创建块级格式化上下文block-formatting-contextbfc有什么用)！！！！！
     - [display,float,position 的关系](#displayfloatposition的关系)
-    - [外边距折叠(collapsing margins)](#外边距折叠collapsing-margins)
-    - [如何确定一个元素的包含块(containing block)](#如何确定一个元素的包含块containing-block)
+    - [外边距折叠(collapsing margins)](#外边距折叠collapsing-margins)！！！！！
+    - [如何确定一个元素的包含块(containing block)](#如何确定一个元素的包含块containing-block)！！！！！
     - [stacking context,布局规则](#stacking-context布局规则)
-    - [如何水平居中一个元素](#如何水平居中一个元素)
-    - [如何竖直居中一个元素](#如何竖直居中一个元素)
+    - [如何水平居中一个元素](#如何水平居中一个元素)！！！！！
+    - [如何竖直居中一个元素](#如何竖直居中一个元素)！！！！！
   - [$javascript 概念部分](#$javascript概念部分)
-    - [DOM 元素 e 的 e.getAttribute(propName)和 e.propName 有什么区别和联系](#dom元素e的egetattributepropname和epropname有什么区别和联系)
+    - [DOM 元素 e 的 e.getAttribute(propName)和 e.propName 有什么区别和联系](#dom元素e的egetattributepropname和epropname有什么区别和联系)！！！！！
     - [offsetWidth/offsetHeight,clientWidth/clientHeight 与 scrollWidth/scrollHeight 的区别](#offsetwidthoffsetheightclientwidthclientheight与scrollwidthscrollheight的区别)
-    - [XMLHttpRequest 通用属性和方法](#xmlhttprequest通用属性和方法)
+    - [XMLHttpRequest 通用属性和方法](#xmlhttprequest通用属性和方法)！！！！！
     - [focus/blur 与 focusin/focusout 的区别与联系](#focusblur与focusinfocusout的区别与联系)
     - [mouseover/mouseout 与 mouseenter/mouseleave 的区别与联系](#mouseovermouseout与mouseentermouseleave的区别与联系)
-    - [sessionStorage,localStorage,cookie 区别](#sessionstoragelocalstoragecookie区别)
-    - [javascript 跨域通信](#javascript跨域通信)
-    - [javascript 有哪几种数据类型](#javascript有哪几种数据类型)
-    - [什么闭包,闭包有什么用](#什么闭包闭包有什么用)
-    - [javascript 有哪几种方法定义函数](#javascript有哪几种方法定义函数)
+    - [sessionStorage,localStorage,cookie 区别](#sessionstoragelocalstoragecookie区别)！！！！！
+    - [javascript 跨域通信](#javascript跨域通信)！！！！！
+    - [javascript 有哪几种数据类型](#javascript有哪几种数据类型)！！！！！
+    - [什么闭包,闭包有什么用](#什么闭包闭包有什么用)！！！！！
+    - [javascript 有哪几种方法定义函数](#javascript有哪几种方法定义函数)！！！！！
     - [应用程序存储和离线 web 应用](#应用程序存储和离线web应用)
-    - [客户端存储 localStorage 和 sessionStorage](#客户端存储localstorage和sessionstorage)
-    - [cookie 及其操作](#cookie及其操作)
-    - [javascript 有哪些方法定义对象](#javascript有哪些方法定义对象)
-    - [===运算符判断相等的流程是怎样的](#===运算符判断相等的流程是怎样的)
-    - [==运算符判断相等的流程是怎样的](#==运算符判断相等的流程是怎样的)
-    - [对象到字符串的转换步骤](#对象到字符串的转换步骤)
-    - [对象到数字的转换步骤](#对象到数字的转换步骤)
-    - [<,>,<=,>=的比较规则](#==的比较规则)
-    - [+运算符工作流程](#运算符工作流程)
-    - [函数内部 arguments 变量有哪些特性,有哪些属性,如何将它转换为数组](#函数内部arguments变量有哪些特性有哪些属性如何将它转换为数组)
+    - [客户端存储 localStorage 和 sessionStorage](#客户端存储localstorage和sessionstorage)！！！！！
+    - [cookie 及其操作](#cookie及其操作)！！！！！
+    - [javascript 有哪些方法定义对象](#javascript有哪些方法定义对象)！！！！！
+    - [===运算符判断相等的流程是怎样的](#===运算符判断相等的流程是怎样的)！！！！！
+    - [==运算符判断相等的流程是怎样的](#==运算符判断相等的流程是怎样的)！！！！！
+    - [对象到字符串的转换步骤](#对象到字符串的转换步骤)！！！！
+    - [对象到数字的转换步骤](#对象到数字的转换步骤)！！！！
+    - [<,>,<=,>=的比较规则](#==的比较规则)！！！！
+    - [+运算符工作流程](#运算符工作流程)！！！！
+    - [函数内部 arguments 变量有哪些特性,有哪些属性,如何将它转换为数组](#函数内部arguments变量有哪些特性有哪些属性如何将它转换为数组)！！！！
     - [DOM 事件模型是如何的,编写一个 EventUtil 工具类实现事件管理兼容](#dom事件模型是如何的编写一个eventutil工具类实现事件管理兼容)
-    - [评价一下三种方法实现继承的优缺点,并改进](#评价一下三种方法实现继承的优缺点并改进)
+    - [评价一下三种方法实现继承的优缺点,并改进](#评价一下三种方法实现继承的优缺点并改进)！！！！
   - [$javascript 编程部分](#$javascript编程部分)
     - [请用原生 js 实现一个函数,给页面制定的任意一个元素添加一个透明遮罩(透明度可变,默认 0.2),使这个区域点击无效,要求兼容 IE8+及各主流浏览器,遮罩层效果如下图所示:](#请用原生js实现一个函数给页面制定的任意一个元素添加一个透明遮罩透明度可变默认02使这个区域点击无效要求兼容ie8及各主流浏览器遮罩层效果如下图所示)
     - [请用代码写出(今天是星期 x)其中 x 表示当天是星期几,如果当天是星期一,输出应该是"今天是星期一"](#请用代码写出今天是星期x其中x表示当天是星期几如果当天是星期一输出应该是今天是星期一)
@@ -75,11 +75,11 @@
     - [补充代码,鼠标单击 Button1 后将 Button1 移动到 Button2 的后面](#补充代码鼠标单击button1后将button1移动到button2的后面)
     - [网页中实现一个计算当年还剩多少时间的倒数计时程序,要求网页上实时动态显示"×× 年还剩 ×× 天 ×× 时 ×× 分 ×× 秒"](#网页中实现一个计算当年还剩多少时间的倒数计时程序要求网页上实时动态显示××年还剩××天××时××分××秒)
     - [完成一个函数,接受数组作为参数,数组元素为整数或者数组,数组元素包含整数或数组,函数返回扁平化后的数组](#完成一个函数接受数组作为参数数组元素为整数或者数组数组元素包含整数或数组函数返回扁平化后的数组)
-    - [如何判断一个对象是否为数组](#如何判断一个对象是否为数组)
+    - [如何判断一个对象是否为数组](#如何判断一个对象是否为数组)！！！！
     - [请评价以下事件监听器代码并给出改进意见](#请评价以下事件监听器代码并给出改进意见)
-    - [如何判断一个对象是否为函数](#如何判断一个对象是否为函数)
+    - [如何判断一个对象是否为函数](#如何判断一个对象是否为函数)！！！！
     - [编写一个函数接受 url 中 query string 为参数,返回解析后的 Object,query string 使用 application/x-www-form-urlencoded 编码](#编写一个函数接受url中query-string为参数返回解析后的objectquery-string使用applicationx-www-form-urlencoded编码)
-    - [解析一个完整的 url,返回 Object 包含域与 window.location 相同](#解析一个完整的url返回object包含域与windowlocation相同)
+    - [解析一个完整的 url,返回 Object 包含域与 window.location 相同](#解析一个完整的url返回object包含域与windowlocation相同)！！！！
     - [完成函数 getViewportSize 返回指定窗口的视口尺寸](#完成函数getviewportsize返回指定窗口的视口尺寸)
     - [完成函数 getScrollOffset 返回窗口滚动条偏移量](#完成函数getscrolloffset返回窗口滚动条偏移量)
     - [现有一个字符串 richText,是一段富文本,需要显示在页面上.有个要求,需要给其中只包含一个 img 元素的 p 标签增加一个叫 pic 的 class.请编写代码实现.可以使用 jQuery 或 KISSY.](#现有一个字符串richtext是一段富文本需要显示在页面上有个要求需要给其中只包含一个img元素的p标签增加一个叫pic的class请编写代码实现可以使用jquery或kissy)
